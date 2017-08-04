@@ -20,6 +20,7 @@
 For collecting the subjects of all the emails matched by the rule, and save them into a csv file
 
 > References:
+>
 > [Applescript & Rules in Mail - Stack Overflow](https://stackoverflow.com/questions/27952360/applescript-rules-in-mail)
 >
 > [Applescript: “File Already Open” when writing to new file - Stack Overflow](https://stackoverflow.com/questions/25125826/applescript-file-already-open-when-writing-to-new-file/45484259#45484259)
